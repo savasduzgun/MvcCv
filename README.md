@@ -15,6 +15,7 @@
 -LogOut
 -Authorization
 </li>
+
 ![Ekran görüntüsü 2024-04-04 182938](https://github.com/savasduzgun/MvcCv/assets/104729849/c911ce91-642a-49f9-948b-43ac0a94af91)
 ![Ekran görüntüsü 2024-04-04 182925](https://github.com/savasduzgun/MvcCv/assets/104729849/1d25e84d-9079-4138-8965-aedcf21f0b74)
 ![Ekran görüntüsü 2024-04-04 182854](https://github.com/savasduzgun/MvcCv/assets/104729849/f4e86237-c43b-409b-8a7b-2f3350c92131)
